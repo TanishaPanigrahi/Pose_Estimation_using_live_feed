@@ -18,8 +18,8 @@ This project uses the Mediapipe library to detect face, hand, and pose landmarks
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/mediapipe-holistic-detection.git
-cd mediapipe-holistic-detection
+git clone https://github.com/TanishaPanigrahi/Pose_Estimation_using_live_feed.git
+cd Pose_Estimation_using_live_feed
 ```
 
 2. Install the required packages:
